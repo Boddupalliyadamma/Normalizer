@@ -1,0 +1,8 @@
+EmployeeID, FirstName, LastName, Department, ProjectName, ProjectManager, ManagerEmail, ProjectStart, ProjectEnd, OfficeLocation
+2001, Alice, Johnson, Marketing, CampaignAlpha, Mr.Williams, williams@company.com, 1/15/2023, 3/30/2023, HQ1
+2002, Bob, Smith, IT, SystemUpgrade, Ms.Taylor, taylor@company.com, 2/1/2023, 6/15/2023, HQ2
+2003, Charlie, Green, Finance, Audit2023, Mr.Adams, adams@company.com, 1/1/2023, 4/30/2023, HQ1
+2004, Diana, Brown, HR, RecruitmentDrive, Ms.Martinez, martinez@company.com, 3/1/2023, 5/30/2023, HQ3
+2005, Eva, White, IT, CyberSecurityEnhancement, Mr.Singh, singh@company.com, 2/15/2023, 8/15/2023, HQ2
+2006, Frank, Taylor, Marketing, ProductLaunch, Ms.Jones, jones@company.com, 4/1/2023, 7/31/2023, HQ1
+2007, Grace, Black, Finance, BudgetPlanning, Mr.Roberts, roberts@company.com, 3/1/2023, 9/1/2023, HQ3
